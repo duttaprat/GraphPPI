@@ -50,3 +50,9 @@ Obtain the gene expression values of the selected genes.
 Implementation of four classifiers (SVM, Random Forest, kNN, and ANN) with 10-fold cross validation
 
 
+# Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
+
+
+
