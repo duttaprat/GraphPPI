@@ -8,5 +8,6 @@
 * <b>Authors:</b> Pratik Dutta, Sriparna Saha and Saurabh Gulati
 * <b>Affiliation:</b> Indian Institute of Technology Patna, India
 * <b>Corresponding Author:</b> Pratik Dutta(pratik.pcs16@iitp.ac.in)
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-## PREREQUISITES
+## Prerequisities
