@@ -25,12 +25,16 @@
 
 ## 1. MOO-based clustering
 
-This folder contains the python code of the proposed MOO-based clustering. Use `terminal`(for linux users) and goto the example folder  
-
- to list
+This folder contains the python code of the proposed MOO-based clustering. Use `terminal`(for linux users) and goto the '1. MOO-based clustering' folder. Then complie the code by following commands
 
 ```bash
-pip install foobar
+cd examples
+```
+Write the **_PATH DESCRIPTION_** of the dataset in line number **28** of the `main.py`
+
+
+```bash
+python main.py <initial_population_size> <number_of_generation>
 ```
 
 
