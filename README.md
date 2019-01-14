@@ -11,3 +11,9 @@
 
 
 ## Prerequisities
+* **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**
+* **sklearn**
+* **matplotlib 2.0+**
+* **mpl_toolkits**
+* **numpy 1.10+**
+* **Cytoscape**
