@@ -36,5 +36,17 @@ Write the **_PATH DESCRIPTION_** of the `dataset` in line number **28** of the *
 ```bash
 python main.py <initial_population_size> <number_of_generation>
 ```
-* Output:- Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
+
+**Output:** Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
+
+
+## 2. Modified Goldberg Algorithm
+This folder contains the modified Goldberg Algorithm.
+
+## 3. Significant_genes_expression_values.py 
+Obtain the gene expression values of the selected genes.
+
+## 4. all_classifiers.py 
+Implementation of four classifiers (SVM, Random Forest, kNN, and ANN) with 10-fold cross validation
+
 
