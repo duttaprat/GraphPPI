@@ -33,7 +33,7 @@ cd examples
 Write the **_PATH DESCRIPTION_** of the `dataset` in line number **28** of the **`main.py`**
 
 
-```python
+```bash
 python main.py <initial_population_size> <number_of_generation>
 ```
 
