@@ -9,7 +9,7 @@
 * **Authors:** Pratik Dutta, Sriparna Saha and Saurabh Gulati
 * **Affiliation:** Indian Institute of Technology Patna, India
 * **Corresponding Author:** [Pratik Dutta](pratik.pcs16@iitp.ac.in)
-* **Accepted(12th January, 2019):**  [IEEE Journal of Biomedical and Health Informatics](https://jbhi.embs.org/)
+* **Accepted(12th January, 2019):**  [IEEE Journal of Biomedical and Health Informatics(IEEE JBHI)](https://jbhi.embs.org/)
 	
 
 ## Prerequisities
@@ -30,11 +30,11 @@ This folder contains the python code of the proposed MOO-based clustering. Use `
 ```bash
 cd examples
 ```
-Write the **_PATH DESCRIPTION_** of the dataset in line number **28** of the `main.py`
+Write the **_PATH DESCRIPTION_** of the `dataset` in line number **28** of the **`main.py`**
 
 
 ```bash
 python main.py <initial_population_size> <number_of_generation>
 ```
-
+* Output:- Generate a file named **`non_dominated_solutions.txt`** that contains all the cluster information.
 
