@@ -8,6 +8,6 @@
 -Affiliation : Indian Institute of Technology Patna, India
 -Corresponding Author : Pratik Dutta(pratik.pcs16@iitp.ac.in)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* <b>Authors :-</b> Pratik Dutta, Sriparna Saha and Saurabh Gulati
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
