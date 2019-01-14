@@ -12,8 +12,11 @@
 
 ## Prerequisities
 * **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**
-* **sklearn**
-* **matplotlib 2.0+**
-* **mpl_toolkits**
-* **numpy 1.10+**
-* **Cytoscape**
+* **[sklearn](https://scikit-learn.org/stable/install.html)**
+* **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
+* **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
+* **[numpy 1.10+](https://pypi.org/project/numpy/)**
+* **[Cytoscape](https://cytoscape.org/download.html)**
+
+
+
