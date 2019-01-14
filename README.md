@@ -43,11 +43,9 @@ python main.py <initial_population_size> <number_of_generation>
 ## 2. Modified Goldberg Algorithm
 This folder contains the modified Goldberg Algorithm.
 
-## 3. Significant_genes_expression_values.py 
-Obtain the gene expression values of the selected genes.
+**`3. Significant_genes_expression_values.py`** Obtain the gene expression values of the selected genes.
 
-## 4. all_classifiers.py 
-Implementation of four classifiers (SVM, Random Forest, kNN, and ANN) with 10-fold cross validation
+**`4. all_classifiers.py`** Implementation of four classifiers (SVM, Random Forest, kNN, and ANN) with 10-fold cross validation
 
 
 # Contributing
