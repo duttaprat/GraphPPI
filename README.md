@@ -9,6 +9,7 @@
 * **Authors:** Pratik Dutta, Sriparna Saha and Saurabh Gulati
 * **Affiliation:** Indian Institute of Technology Patna, India
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
+* **Submitted:** 21st May, 2018
 * **Accepted(12th January, 2019):**  [IEEE Journal of Biomedical and Health Informatics(IEEE JBHI)](https://jbhi.embs.org/)
 	
 
