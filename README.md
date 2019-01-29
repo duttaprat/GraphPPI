@@ -53,5 +53,16 @@ This folder contains the modified Goldberg Algorithm.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
+# Citation
+If you use this work, please cite it as 
+@article{dutta2019graph,
+  title={Graph-based Hub Gene Selection Technique using Protein Interaction Information: Application to Sample Classification},
+  author={Dutta, Pratik and Saha, Sriparna and Gulati, Saurabh},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2019},
+  publisher={IEEE}
+}
+
+
 
 
