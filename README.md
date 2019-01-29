@@ -55,6 +55,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # Citation
 If you use this work, please cite it as 
+```bash
 @article{dutta2019graph,
   title={Graph-based Hub Gene Selection Technique using Protein Interaction Information: Application to Sample Classification},
   author={Dutta, Pratik and Saha, Sriparna and Gulati, Saurabh},
@@ -62,7 +63,7 @@ If you use this work, please cite it as
   year={2019},
   publisher={IEEE}
 }
-
+```
 
 
 
