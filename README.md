@@ -31,7 +31,7 @@ This folder contains the python code of the proposed MOO-based clustering. Use `
 ```bash
 cd examples
 ```
-Write the **_PATH DESCRIPTION_** of the `dataset` in line number **28** of the **`main.py`**
+Write the **_PATH DESCRIPTION_** of the `dataset` in line number **31** of the **`main.py`**
 
 
 ```bash
