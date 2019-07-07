@@ -11,7 +11,17 @@
 * **Corresponding Author:** [Pratik Dutta](http://www.iitp.ac.in/~pratik.pcs16/) (pratik.pcs16@iitp.ac.in ) 
 * **Submitted:** 21st May, 2018
 * **Accepted(12th January, 2019):**  [IEEE Journal of Biomedical and Health Informatics(IEEE JBHI)](https://jbhi.embs.org/)
-	
+
+If you consider this work as useful, please cite it as 
+```bash
+@article{dutta2019graph,
+  title={Graph-based Hub Gene Selection Technique using Protein Interaction Information: Application to Sample Classification},
+  author={Dutta, Pratik and Saha, Sriparna and Gulati, Saurabh},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2019},
+  publisher={IEEE}
+}
+```
 
 ## Prerequisities
 * **[Python 2.7+](https://www.python.org/downloads/release/python-2713/)**
@@ -52,18 +62,4 @@ This folder contains the modified Goldberg Algorithm.
 # Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
-
-# Citation
-If you use this work, please cite it as 
-```bash
-@article{dutta2019graph,
-  title={Graph-based Hub Gene Selection Technique using Protein Interaction Information: Application to Sample Classification},
-  author={Dutta, Pratik and Saha, Sriparna and Gulati, Saurabh},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2019},
-  publisher={IEEE}
-}
-```
-
-
 
